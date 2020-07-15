@@ -20,14 +20,14 @@ Below you will see a Monte Carlo simulation of our prefered portfolio, containin
 
 ![Monte Carlo Simulation](../Assignment/Resources/monte_carlo_simulation.png)
 
-I'm also 90 % confident that you're expected returns will fall between 19.735732 and 56.886259 times your initial investment. As demonstrated by the chart below. 
+I'm 90% confident that you're expected returns will fall between 19.74 and 56.89 times your initial investment. As demonstrated by the chart below. 
 
 ![Monte Carlo Simulation](../Assignment/Resources/ninety_percentile.png)
 
-However if you invest with us, I'm 50% confidence your expected returns will be between 27.132614 and 41.75131 times your initial investment. As demonstrated by the chart below.
+However if you invest with us, I'm 50% confidence your expected returns will be between 27.13 and 41.75 times your initial investment. As demonstrated by the chart below.
 
 ![Monte Carlo Simulation](../Assignment/Resources/fifty_percentile.png)
 
-Also at the end of the 30 years, and you decide to withdraw 4%, we're confident that each month your retirement income will exceed $500.
+Also at the end of the 30 years, if you decide to withdraw 4%, we're confident that each month your retirement income will exceed $500.
 
 So customer, are you ready to invest with us and get rich over the next 30 years?
