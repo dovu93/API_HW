@@ -6,7 +6,7 @@ From looking at this individual, we can conclude that they are spending far abov
 
 Their spending habits are crazy! From the data I pulled, we can see that they are spending over $10,000 each month. Represented by the chart below. Please note April is low due to not pulling in all the transactions in April, I only pulled in the data from the past 90 days.
 
-![Bar Chart](../Assignment/Resources/spending_monthly)
+![Bar Chart](../Assignment/Resources/spending_monthly.png)
 
  I've also compiled a pie chart below detailing their spending habits over the past 90 days. We can see this individual is transfering a lot of money somewhere.
 
