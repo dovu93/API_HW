@@ -51,31 +51,38 @@ However I'm also 50% confidence your expected returns will be between 179.25 and
 
 1. What are the expected cumulative returns at `30` years for the `10th`, `50th`, and `90th` percentiles?
 
-At 30 years, the 10th percentile of your expected returns is 119.03% of your initial investment
+        At 30 years, the 10th percentile of your expected returns is 119.03% of your initial investment
 
 
-At 30 years, the 50th percentile of your expected returns is 199.08% of your initial investment
+        At 30 years, the 50th percentile of your expected returns is 199.08% of your initial investment
 
 
-At 30 years, the 90th percentile of your expected returns is 320.56% of your initial investment
+        At 30 years, the 90th percentile of your expected returns is 320.56% of your initial investment
     
 
 2. Given an initial investment of `$20,000`, what is the expected return in dollars at the `10th`, `50th`, and `90th` percentiles?
 
-At 30 years, you can expect $2380549.70 at the 10th percentile.
+        At 30 years, you can expect $2380549.70 at the 10th percentile.
 
 
 At 30 years, you can expect $3981677.14 at the 50th percentile.
 
 
-At 30 years, you can expect $6411230.97 at the 90th percentile.
+        At 30 years, you can expect $6411230.97 at the 90th percentile.
     
 
 3. Given the current projected annual income from the Plaid analysis, will a `4%` withdrawal rate meet or exceed that value at the `10th` percentile? Note: This is basically determining if retirement income is equivalent to current income.
 
-Yes    
+        Yes    
 
 4. How would a `50%` increase in the initial investment amount affect the `4%` retirement withdrawal? In other words, what happens if the initial investment had been bigger?
 
-The increase in initial investment would only increase your retirement income after 30 years, assuming market condidtions don't drastically change. 
+        The increase in initial investment would only increase your retirement income after 30 years, assuming market condidtions don't drastically change. 
     
+    
+## **Optional Challenge**
+    
+
+To retire within 5 years, it is advised that your portfolio contain only stocks, assuming a normal market. Also having an initial investment of $500,000 would help out. However if you only have an initial investment of $250,000, I'm 25% confident that you'll be able to quadraple that amount in 5 years. As evident from the graph below. 
+
+![5 Years](../Assignment/Resources/5years.png)
