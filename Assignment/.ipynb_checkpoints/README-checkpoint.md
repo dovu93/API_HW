@@ -65,7 +65,7 @@ However I'm also 50% confidence your expected returns will be between 179.25 and
         At 30 years, you can expect $2380549.70 at the 10th percentile.
 
 
-At 30 years, you can expect $3981677.14 at the 50th percentile.
+        At 30 years, you can expect $3981677.14 at the 50th percentile.
 
 
         At 30 years, you can expect $6411230.97 at the 90th percentile.
